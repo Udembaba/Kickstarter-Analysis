@@ -1,2 +1,3 @@
-# Kickstarter-analysis
-Performs analysis on kickstarter data to uncover trends
+## kickstarter analysis of trends
+how everything went
+#subheading
