@@ -1,3 +1,2 @@
-## kickstarter analysis of trends
-how everything went
-#subheading
+## An Analysis of Kickstarter Campaigns
+Helping louise make crowd funding decisions
